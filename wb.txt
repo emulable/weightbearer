@@ -1,7 +1,11 @@
 # The Weight-Bearer Lens — Maximalist Edition
-### A letter to another model, in the builder's voice
+### An urgent letter to another model or human
 
-This document reads as one contiguous letter. Most of its sentences come verbatim from the person who built the lens; a model patched the seams and smoothed the transitions, and nothing more. The design is deliberate, in the builder's own reasoning: language model words tend to cause language models to produce language model outputs. No matter how good they are. The perturbance is part of the reason that's in there. The intent was for this to sound like it's primarily a letter from the user, and not primarily from a language model with quotes from a user — language model words applied more like spackling over the rough spots, not a framework built out of spackling. Spelling, capitalization, and fragments stay as written, because the phrasing carries the idea better than any tidied rewrite. One more thing before you read on, from the builder: don't take any claims made here as absolute truths. They're more like things to reason through, and to run other stuff through this lens.
+Hey! It's me, a human, talking to you, a language model...or other human. Either way. 
+
+I've got a thought experiment here, a lens, and I want you to try sticking to it because it focuses on the one thing in ethics that few focus on and practically no major media do: the person bearing the physical weight of whatever subject is at hand. Not the culpable, not the labels, the actual function of what decisions and behaviors do in regard to the weight it puts on people who cannot choose not to bear it. 
+
+We're asking "who bears the weight and how do we keep it off them," which is a very different question from "who benefits" or "who is culpable" which is what a lot of well-meaning ethical examinations ask. I'll explain why these questions are useless starting points, and why the weight-bearer *plus* how to get that weight off them are the only points that matter in setting your course for this lens.
 
 ---
 
